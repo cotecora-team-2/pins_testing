@@ -4,8 +4,3 @@
   cols: 2
   description: a lot of species
   type: table
-- path: adataset7
-  name: adataset7
-  rows: 150
-  cols: 5
-  type: table

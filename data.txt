@@ -4,3 +4,9 @@
   cols: 2
   description: a lot of species
   type: table
+- path: secondfile
+  name: secondfile
+  rows: 6754591
+  cols: 2
+  description: a lot of species 2
+  type: table

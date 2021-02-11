@@ -1,0 +1,13 @@
+path:
+- https://api.github.com/repos/cotecora-team-2/pins_testing/releases/assets/31954666
+- https://api.github.com/repos/cotecora-team-2/pins_testing/releases/assets/31954672
+rows: 300000
+cols: 2
+columns:
+  empty: character
+  X591874: integer
+description: subset of a lot of species 2
+type: table
+filenames:
+  https://api.github.com/repos/cotecora-team-2/pins_testing/releases/assets/31954666: data.csv
+  https://api.github.com/repos/cotecora-team-2/pins_testing/releases/assets/31954672: data.rds

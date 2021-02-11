@@ -14,5 +14,5 @@
   name: subsetfile
   rows: 300000
   cols: 2
-  description: subset of a lot of species 2
+  description: subset of a lot of species 2 a field changed
   type: table

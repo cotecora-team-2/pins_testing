@@ -1,6 +1,6 @@
 path:
-- https://api.github.com/repos/cotecora-team-2/pins_testing/releases/assets/31955105
-- https://api.github.com/repos/cotecora-team-2/pins_testing/releases/assets/31955107
+- https://api.github.com/repos/cotecora-team-2/pins_testing/releases/assets/31955285
+- https://api.github.com/repos/cotecora-team-2/pins_testing/releases/assets/31955311
 rows: 300000
 cols: 2
 columns:
@@ -9,5 +9,5 @@ columns:
 description: subset of a lot of species 2 a field changed
 type: table
 filenames:
-  https://api.github.com/repos/cotecora-team-2/pins_testing/releases/assets/31955105: data.csv
-  https://api.github.com/repos/cotecora-team-2/pins_testing/releases/assets/31955107: data.rds
+  https://api.github.com/repos/cotecora-team-2/pins_testing/releases/assets/31955285: data.csv
+  https://api.github.com/repos/cotecora-team-2/pins_testing/releases/assets/31955311: data.rds
